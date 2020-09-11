@@ -1,0 +1,11 @@
+2020-09-10 15:08:50,777 :INFO : test_e2e :1. click the 'shop' button.
+2020-09-10 15:22:30,390 :INFO : test_e2e :1. get the search field on google home page.
+2020-09-10 15:31:46,223 :INFO : test_e2e :1. get the search field on google home page.
+2020-09-10 15:39:49,801 :INFO : test_e2e :1. get the search field on google home page.
+2020-09-11 07:45:40,657 :INFO : test_checkGooglePage :1. get the search field on google home page.
+2020-09-11 07:46:29,461 :INFO : test_checkGooglePage :1. get the search field on google home page.
+2020-09-11 09:48:28,846 :INFO : test_checkGooglePage :1. get the search field on google home page.
+2020-09-11 10:35:33,636 :INFO : test_checkGooglePage :1. get the search field on google home page.
+2020-09-11 10:35:38,697 :INFO : test_checkGooglePage :2. confirm the results page. Find 'www.cheerios.com'. 
+2020-09-11 10:36:22,899 :INFO : test_checkGooglePage :1. get the search field on google home page.
+2020-09-11 10:36:28,505 :INFO : test_checkGooglePage :2. confirm the results page. Find 'www.cheerios.com'. 
